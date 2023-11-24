@@ -111,3 +111,6 @@ tests/certs/
 # vscode
 .vscode/
 **/tmp/**
+
+# pycharm
+.idea/
